@@ -1,7 +1,9 @@
 [
   {
-    "repository":  "device_motorola_msm8916-common",
+    "remote":      "github",
+    "repository":  "SlimROms/device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common"
+    "branch":      "ng7.1"
   },
   {
     "remote":       "github",
