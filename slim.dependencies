@@ -19,8 +19,14 @@
   },
   {
     "remote":       "github",
-    "repository": "lineageos/android_external_bson",
+    "repository": "SlimRoms/android_external_bson",
     "target_path": "external/bson",
-    "branch":      "cm-14.1"
+    "branch":      "mm6.0"
+  },
+  {
+    "remote":       "github"
+    "repository":   "SlimRoms/packages_resources_devicesettings"
+    "target_path":  "packages/resources/devicesettings"
+    "branch":       "ng7.1"
   }
 ]
